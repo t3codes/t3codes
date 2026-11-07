@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:tharlles.engineer@gmail.com">✉️ Email</a> •
   <a href="https://www.linkedin.com/in/tharlles/">💼 LinkedIn</a> •
-  <a href="https://wa.me/5577998753554" target="_blank">📱 WhatsApp</a>
+  <a href="https://wa.me/5577998152011" target="_blank">📱 WhatsApp</a>
 </p>
 ---
 
